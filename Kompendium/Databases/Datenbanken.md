@@ -15,7 +15,7 @@
 3. [[Datenbankmodellierung]]
 	1. Entity-Relationship Diagramme: ERD in Chen-Notation
 	2. Kardinalitäten von Beziehungen: 1:1, 1:m, n:m
-	3. Referentielle Integrität: PRIMARY KEY, REFERENCES (ON ... CASCADE)
+	3. ACID: PRIMARY KEY, REFERENCES (ON ... CASCADE)
 	4. Joins: INNER, LEFT, RIGHT, OUTER, SELF, ON, USING
     5. Normalisierung: 1NF, 2NF, 3NF
 4. [[Fortgeschrittenes SQL]]

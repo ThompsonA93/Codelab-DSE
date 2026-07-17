@@ -1,0 +1,4 @@
+
+#### [[Primärschlüssel]]
+
+#### [[Fremdschlüssel]]

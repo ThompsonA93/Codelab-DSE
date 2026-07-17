@@ -6,3 +6,7 @@
 ## [[Tabellen]]
 
 ## [[Entitäten]]
+
+## [[Attribute]]
+
+## [[Beziehungen]]

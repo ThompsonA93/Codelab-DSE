@@ -2,7 +2,6 @@
 
 ## [[Views]]
 
-
 ## [[Subqueries & CTEs]]
 
 ## [[Window Functions]]

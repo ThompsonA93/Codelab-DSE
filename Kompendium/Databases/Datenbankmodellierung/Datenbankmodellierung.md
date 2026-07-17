@@ -3,8 +3,9 @@
 
 ## [[Kardinalitäten]]
 
-## [[Referentielle Integrität]]
-
+## [[Integrität]]
 ## [[Joins]]
+
+## [[ACID]]
 
 ## [[Normalisierung]]

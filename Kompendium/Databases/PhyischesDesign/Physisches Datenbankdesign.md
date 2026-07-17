@@ -1,7 +1,7 @@
 
 ## [[Transaktionen]]
 
-## [[Isolationslevel]]
+## [[Transaktionseigenschaften]]
 
 ## [[Query Execution Engine]]
 

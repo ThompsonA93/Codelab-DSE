@@ -1,0 +1,8 @@
+
+#### [[SELECT]]
+
+#### [[INSERT]]
+
+#### [[UPDATE]]
+
+#### [[DELETE]]
