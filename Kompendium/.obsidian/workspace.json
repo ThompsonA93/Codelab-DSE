@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc1d9d0e1c9ee63",
+        "id": "dc49607ea6413c22",
         "type": "tabs",
         "children": [
           {
-            "id": "b467ba81748cbe92",
+            "id": "e50a8100bf42bb4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kompendium.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kompendium"
-            }
-          }
-        ]
-      },
-      {
-        "id": "07dea7cc8937d074",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "909a9179664c7c4c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,8 +179,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "909a9179664c7c4c",
+  "active": "a96aab240b4dfa43",
   "lastOpenFiles": [
-    "Kompendium.md"
+    "Kompendium.md",
+    "SoftwareEngineering/CloudComputing/Cloud Computing.md",
+    "SoftwareEngineering/DataWarehousing/Data Warehousing.md",
+    "SoftwareEngineering/NoSQL/Nicht-relationale Datenbanken.md",
+    "SoftwareEngineering/Systemarchitektur/Systemarchitektur.md",
+    "Datenbankzugriff.md",
+    "SoftwareEngineering/Applikationsintegration/Applikationsintegration.md",
+    "SoftwareEngineering/Software-Entwicklung.md",
+    "Databases/Datenbankadministration/Datenbankadministration.md",
+    "Databases/Datenbanken.md",
+    "SoftwareEngineering/Software Engineering.md",
+    "Databases/Datenbankprogrammierung/Datenbankprogrammierung.md",
+    "Databases/PhyischesDesign/Physisches Datenbankdesign.md",
+    "Databases/Grundlagen_SQL/Grundlagen von SQL.md",
+    "Databases/Fortgeschrittenes_SQL/Fortgeschrittenes SQL.md",
+    "Databases/Datenbankmodellierung/Datenbankmodellierung.md",
+    "Databases/Datenbankinstallation/Datenbankinstallation.md",
+    "Databases/Datenbankinstallation/Postgres/Postgres.md",
+    "Databases/Datenbankinstallation/MSAccess/MS_Access.md",
+    "Databases/Datenbankinstallation/Postgres/Deployment/PostgreSQL.md",
+    "Databases/Datenbankinstallation/Postgres/Deployment/Docker.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/PSQL-CLI.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/pgAdmin.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/DBeaver.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/Datagrip.md",
+    "Databases/Datenbankinstallation/Postgres/Deployment",
+    "Databases/Datenbankinstallation/Postgres/Tools",
+    "Databases/Datenbankinstallation/Postgres",
+    "Databases/Datenbankinstallation/MSAccess",
+    "SoftwareEngineering/CloudComputing",
+    "SoftwareEngineering/DataWarehousing",
+    "SoftwareEngineering/NoSQL",
+    "SoftwareEngineering/Systemarchitektur",
+    "SoftwareEngineering/Applikationsintegration",
+    "Databases/Datenbankadministration"
   ]
 }
