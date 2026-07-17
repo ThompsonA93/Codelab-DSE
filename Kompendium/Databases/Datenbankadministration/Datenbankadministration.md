@@ -7,7 +7,6 @@
 
 ## [[Write-Ahead Logs]]
 
-
 ## [[Replikationsmodelle]]
 
 ## [[Skalierung und Partitionierung]]
