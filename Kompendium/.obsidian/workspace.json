@@ -4,24 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "28979f1151ae31fe",
+        "id": "96bd9a948bcd582e",
         "type": "tabs",
         "children": [
           {
-            "id": "a13aeafc780336b5",
+            "id": "2ce55992181452df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Grundlagen_SQL/Grundlagen von SQL.md",
+                "file": "Databases/Grundlagen_SQL/RelationaleModell/Relationale Modell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grundlagen von SQL"
+              "title": "Relationale Modell"
+            }
+          },
+          {
+            "id": "d957fafcb57fe031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Grundlagen_SQL/RelationaleModell/Entitäten/Entitäten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entitäten"
+            }
+          },
+          {
+            "id": "45136ffb34c109ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8415a972821ddf90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Grundlagen_SQL/RelationaleModell/Entitäten/Attribute.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attribute"
+            }
+          },
+          {
+            "id": "5456acbc62c4eecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Grundlagen_SQL/RelationaleModell/Relationale Modell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relationale Modell"
+            }
+          },
+          {
+            "id": "114524e2d0f975d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Grundlagen_SQL/RelationaleModell/Relationale Modell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relationale Modell"
+            }
+          },
+          {
+            "id": "c125ad162f663a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Grundlagen_SQL/RelationaleModell/Relationale Modell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relationale Modell"
+            }
+          },
+          {
+            "id": "ce231f1837703686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Grundlagen_SQL/RelationaleModell/Entitäten/Entitäten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entitäten"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,43 +278,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "a13aeafc780336b5",
+  "active": "45136ffb34c109ee",
   "lastOpenFiles": [
+    "Databases/Grundlagen_SQL/RelationaleModell/Relationale Modell.md",
+    "Databases/Grundlagen_SQL/RelationaleModell/Entitäten/Attribute.md",
+    "Databases/Grundlagen_SQL/RelationaleModell/Entitäten/Relationen.md",
+    "Databases/Grundlagen_SQL/RelationaleModell/Entitäten/Entitäten.md",
+    "Databases/Grundlagen_SQL/Grundlagen von SQL.md",
+    "Databases/Grundlagen_SQL/RelationaleModell/Entitäten",
+    "Databases/Grundlagen_SQL/RelationaleModell/Tabellen/Tabellen.md",
+    "Databases/Grundlagen_SQL/RelationaleModell/Tabellen",
+    "Databases/Grundlagen_SQL/RelationaleModell/Schemas/Schemas.md",
+    "Databases/Grundlagen_SQL/RelationaleModell/Schemas",
+    "Databases/Grundlagen_SQL/RelationaleModell/Domänen/Domänen.md",
+    "Databases/Grundlagen_SQL/RelationaleModell/Domänen",
+    "Databases/Grundlagen_SQL/RelationaleModell",
+    "Databases/Grundlagen_SQL/Datenformate/Unstrukturierte Daten/MP3.md",
+    "Databases/Grundlagen_SQL/Datenformate/Unstrukturierte Daten/PNG.md",
+    "Databases/Grundlagen_SQL/Datenformate/Unstrukturierte Daten/Unstrukturierte Daten.md",
+    "Databases/Grundlagen_SQL/Datenformate/Strukturierte Daten/Strukturierte Daten.md",
+    "Databases/Grundlagen_SQL/Datenformate/Strukturierte Daten/CSV.md",
+    "Databases/Grundlagen_SQL/Datenformate/Semi-Strukturierte Daten/JSON.md",
+    "Databases/Grundlagen_SQL/Datenformate/Semi-Strukturierte Daten/Semi-Strukturierte Daten.md",
+    "Databases/Grundlagen_SQL/Datenformate/Semi-Strukturierte Daten/XML.md",
+    "Databases/Grundlagen_SQL/Datenformate/Unstrukturierte Daten/BLOB.md",
+    "Databases/Grundlagen_SQL/Datenformate/Unstrukturierte Daten",
+    "Databases/Grundlagen_SQL/Datenformate/Semi-Strukturierte Daten",
+    "Databases/Grundlagen_SQL/Datenformate/Strukturierte Daten",
+    "Databases/Grundlagen_SQL/Datenformate/Datenformate.md",
+    "Databases/Grundlagen_SQL/Datenformate",
+    "Databases/PhyischesDesign/Physisches Datenbankdesign.md",
+    "Databases/Datenbankadministration/Datenbankadministration.md",
+    "Databases/Datenbankinstallation/MSAccess/MS_Access.md",
     "Databases/Datenbankinstallation/Postgres/Postgres.md",
     "Databases/Datenbankinstallation/Postgres/Tools/Stackbuilder.md",
     "Databases/Datenbankinstallation/Postgres/Deployment/PostgreSQL.md",
     "Databases/Datenbankinstallation/Postgres/Tools/PSQL-CLI.md",
     "Databases/Datenbankinstallation/Postgres/Tools/pgAdmin.md",
-    "Databases/Datenbankinstallation/Postgres/Tools/DBeaver.md",
-    "Databases/Datenbankinstallation/Postgres/Tools/Datagrip.md",
-    "Databases/Datenbankinstallation/Postgres/Deployment/Docker.md",
-    "Databases/Datenbankinstallation/Datenbankinstallation.md",
-    "Databases/Datenbankadministration/Datenbankadministration.md",
-    "Databases/Grundlagen_SQL/Grundlagen von SQL.md",
-    "Datenformate.md",
-    "Kompendium.md",
-    "Databases/Datenbankinstallation/MSAccess/MS_Access.md",
-    "Databases/Datenbanken.md",
-    "Databases/Fortgeschrittenes_SQL/Fortgeschrittenes SQL.md",
-    "Databases/Datenbankmodellierung/Datenbankmodellierung.md",
-    "SoftwareEngineering/CloudComputing/Cloud Computing.md",
-    "SoftwareEngineering/DataWarehousing/Data Warehousing.md",
-    "SoftwareEngineering/NoSQL/Nicht-relationale Datenbanken.md",
-    "SoftwareEngineering/Systemarchitektur/Systemarchitektur.md",
-    "Datenbankzugriff.md",
-    "SoftwareEngineering/Applikationsintegration/Applikationsintegration.md",
-    "SoftwareEngineering/Software-Entwicklung.md",
-    "SoftwareEngineering/Software Engineering.md",
-    "Databases/Datenbankprogrammierung/Datenbankprogrammierung.md",
-    "Databases/Datenbankinstallation/Postgres/Deployment",
-    "Databases/Datenbankinstallation/Postgres/Tools",
-    "Databases/Datenbankinstallation/Postgres",
-    "Databases/Datenbankinstallation/MSAccess",
-    "SoftwareEngineering/CloudComputing",
-    "SoftwareEngineering/DataWarehousing",
-    "SoftwareEngineering/NoSQL",
-    "SoftwareEngineering/Systemarchitektur",
-    "SoftwareEngineering/Applikationsintegration",
-    "Databases/Datenbankadministration"
+    "Databases/Datenbankinstallation/Postgres/Deployment"
   ]
 }
