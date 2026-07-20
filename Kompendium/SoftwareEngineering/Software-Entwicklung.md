@@ -1,3 +1,7 @@
+Die folgenden Kapitel decken alle relevanten Aspekte der Nutzung, Administration und Entwicklung datenbankgestützter Backendsysteme ab. 
+
+Das Ziel ist der systematische Kompetenzerwerb für Berufsbilder wie Backend-Developer, Full-Stack Developer und DevOps Engineer auf Junior-Niveau.
+
 
 8. [[Applikationsintegration]]
     1. Entwicklung modularer Komponenten: Clean Arch-Entwicklung des Backends

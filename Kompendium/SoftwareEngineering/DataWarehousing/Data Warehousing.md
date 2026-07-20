@@ -1,5 +1,5 @@
 
-## [[OLTP vs OLAP]]
+## [[OLTP]] vs [[OLAP]]
 
 ## [[ETL-Prinzipien]]
 

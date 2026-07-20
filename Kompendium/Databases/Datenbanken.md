@@ -1,3 +1,6 @@
+Die folgenden Kapitel decken das gesamte Spektrum relationaler Datenbanksysteme ab, von der theoretischen Datenmodellierung über die fortgeschrittene SQL-Programmierung bis hin zur Administration im Betrieb. 
+
+Das Ziel ist der Kompetenzerwerb für Berufsfelder wie Datenbankadministrator, Data Engineer und Backend-Softwareentwickler.
 
 1. [[Datenbankinstallation]]
     1. Informationsspeichersysteme: MS Access

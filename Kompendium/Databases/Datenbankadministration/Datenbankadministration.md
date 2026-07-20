@@ -3,9 +3,8 @@
 
 ## [[Multi-Version Concurrency Control]]
 
-## [[Backup-Strategien]]
-
 ## [[Write-Ahead Logs]]
+## [[Backup-Strategien]]
 
 ## [[Replikationsmodelle]]
 
