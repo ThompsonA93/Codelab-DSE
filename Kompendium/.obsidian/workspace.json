@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f9d1edf3085bda2",
+            "id": "b8827185c8f86bb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Datenbanken.md",
+                "file": "Databases/Fortgeschrittenes_SQL/JSON & Arrays/JSON & Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datenbanken"
+              "title": "JSON & Arrays"
+            }
+          },
+          {
+            "id": "79e0fbbc614d0b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Fortgeschrittenes_SQL/JSON & Arrays/JSON & Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JSON & Arrays"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +198,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f9d1edf3085bda2",
+  "active": "79e0fbbc614d0b9b",
   "lastOpenFiles": [
+    "Databases/Fortgeschrittenes_SQL/JSON & Arrays/INDEXING.md",
+    "Databases/Fortgeschrittenes_SQL/JSON & Arrays/JSON & Arrays.md",
+    "Databases/Fortgeschrittenes_SQL/JSON & Arrays/JSONB.md",
+    "Databases/Fortgeschrittenes_SQL/JSON & Arrays/ARRAY.md",
+    "Databases/Fortgeschrittenes_SQL/JSON & Arrays/ANY.md",
+    "Databases/Fortgeschrittenes_SQL/JSON & Arrays/ALL.md",
+    "Databases/Datenbanken.md",
     "SoftwareEngineering/Software-Entwicklung.md",
     "Kompendium.md",
     "Databases/Datenbankinstallation/Datenbankinstallation.md",
-    "Databases/Datenbanken.md",
     "Databases/Datenbankadministration/Datenbankadministration.md",
     "Databases/Datenbankadministration/Observability/Observability.md",
     "Databases/Datenbankadministration/Monitoring/Monitoring.md",
@@ -214,12 +235,6 @@
     "SoftwareEngineering/Systemarchitektur/Untitled",
     "SoftwareEngineering/Systemarchitektur/AccessPatterns",
     "SoftwareEngineering/Systemarchitektur/Topologies",
-    "SoftwareEngineering/NoSQL/Nicht-relationale Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Object/Objektspeicher.md",
-    "SoftwareEngineering/NoSQL/Graph/Graphdatenbanken.md",
-    "SoftwareEngineering/NoSQL/Document/Dokumentorientierte Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Spatial/Spatiale Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Time-Series/Zeitreihendatenbanken.md",
-    "SoftwareEngineering/NoSQL/Column/Spaltenorientierte Datenbanken.md"
+    "SoftwareEngineering/NoSQL/Nicht-relationale Datenbanken.md"
   ]
 }
