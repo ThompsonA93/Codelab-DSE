@@ -17,12 +17,13 @@ Das Ziel ist der systematische Kompetenzerwerb für Berufsbilder wie Backend-Dev
 	4. Database Access Patterns: Table, View, Function, Procedure, API-Mapping
 	5. Distributed Data Patterns: CQRS, Saga, Outbox
 10.  [[Nicht-relationale Datenbanken]]
-    1. Key-Value Stores: Redis
-    2. Column-Oriented Datenbanken: Apache Cassandra
-    3. Time-Series Datenbanken: TimescaleDB
-    4. Spatiale Datenbanken: PostGIS
-    5. Graph Datenbanken: Postgres v19+
-    6. Objektspeicher: MinIO
+	1. Key-Value Stores: Redis
+	2. Dokumentorientierte Datenbanken: MongoDB
+	3. Column-Oriented Datenbanken: Apache Cassandra
+    4. Graph Datenbanken: Postgres v19+
+    5. Objektspeicher: MinIO
+    6. Time-Series Datenbanken: TimescaleDB
+    7. Spatiale Datenbanken: PostGIS
 11. [[Data Warehousing]]
     1. Prinzipien von OLAP vs OLTP: Row-oriented vs Column-Oriented DB
     2. Prinzipien von ETL: ETL vs ELT

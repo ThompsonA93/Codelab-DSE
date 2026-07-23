@@ -22,11 +22,11 @@ Das Ziel ist der Kompetenzerwerb für Berufsfelder wie Datenbankadministrator, D
 	4. Joins: INNER, LEFT, RIGHT, OUTER, SELF, ON, USING
     5. Normalisierung: 1NF, 2NF, 3NF
 4. [[Fortgeschrittenes SQL]]
-    1. Views: VIEW, MATERIALIZED VIEW
-	2. Subqueries & CTEs: Nested Queries, WITH, EXISTS
-	3. Window Functions: OVER (PARTITION BY ... ORDER BY ... ), ROW_NUMBER, RANK, LEAD, LAG
-	4. Rekursive Queries: WITH RECURSIVE
-	5. Mengenoperationen: UNION, INTERSECT, EXCEPT
+	 1.  Mengenoperationen: UNION, INTERSECT, EXCEPT
+	2. Views: VIEW, MATERIALIZED VIEW
+	3. Subqueries & CTEs: Nested Queries, WITH, EXISTS
+	4. Window Functions: OVER (PARTITION BY ... ORDER BY ... ), ROW_NUMBER, RANK, LEAD, LAG
+	5. Rekursive Queries: WITH RECURSIVE
     6. JSON & Arrays: jsonb, Operatoren, Funktionen, ANY, ALL
     7. Datum und Stringfunktionen: EXTRACT, DATE_PART, UPPER, LOWER
     8. Test und Validation: pgTap

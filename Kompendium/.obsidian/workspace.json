@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d85f94342ea8e4de",
@@ -185,7 +185,9 @@
   },
   "active": "8f9d1edf3085bda2",
   "lastOpenFiles": [
+    "SoftwareEngineering/Software-Entwicklung.md",
     "Kompendium.md",
+    "Databases/Datenbankinstallation/Datenbankinstallation.md",
     "Databases/Datenbanken.md",
     "Databases/Datenbankadministration/Datenbankadministration.md",
     "Databases/Datenbankadministration/Observability/Observability.md",
@@ -218,8 +220,6 @@
     "SoftwareEngineering/NoSQL/Document/Dokumentorientierte Datenbanken.md",
     "SoftwareEngineering/NoSQL/Spatial/Spatiale Datenbanken.md",
     "SoftwareEngineering/NoSQL/Time-Series/Zeitreihendatenbanken.md",
-    "SoftwareEngineering/NoSQL/Column/Spaltenorientierte Datenbanken.md",
-    "SoftwareEngineering/Applikationsintegration/Applikationsintegration.md",
-    "SoftwareEngineering/DataWarehousing/Data Warehousing.md"
+    "SoftwareEngineering/NoSQL/Column/Spaltenorientierte Datenbanken.md"
   ]
 }
