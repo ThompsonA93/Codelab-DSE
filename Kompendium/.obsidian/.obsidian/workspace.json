@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "7d3ac14ea019bdf1",
+    "id": "18ffb44a1a41c7e1",
     "type": "split",
     "children": [
       {
-        "id": "edfa1130613be9bd",
+        "id": "3912b95644d0eb61",
         "type": "tabs",
         "children": [
           {
-            "id": "8f9d1edf3085bda2",
+            "id": "b0c4b54382e8ce50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/PhyischesDesign/Transaktionen/ANOMALIEN.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ANOMALIEN"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4ae2b4b9f36d27e4",
+    "id": "a09b34cbe1f42396",
     "type": "split",
     "children": [
       {
-        "id": "bfc190ae70444bf9",
+        "id": "037fdd1cf060d2bb",
         "type": "tabs",
         "children": [
           {
-            "id": "a96aab240b4dfa43",
+            "id": "c82257462d148bfd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "55609029987372f3",
+            "id": "915009a6dca44cb1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,40 +57,39 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
-            "id": "2f4dab3b7be14aef",
+            "id": "9f22349e282bf353",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Lesezeichen"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "d85f94342ea8e4de",
+    "id": "26e0f3d393d5563b",
     "type": "split",
     "children": [
       {
-        "id": "8686f19ce1e0f9d0",
+        "id": "becc1a3e76da9dc0",
         "type": "tabs",
         "children": [
           {
-            "id": "467ccafb5cbd8afa",
+            "id": "dfe01b8c8454817f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Rückverweise"
             }
           },
           {
-            "id": "7f44194477d0a4f4",
+            "id": "acf95cbfedc60fb2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Ausgehende Links"
             }
           },
           {
-            "id": "4529c0cd043f3194",
+            "id": "fc7e653a0ed57706",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "6dfde528c2ed05a0",
+            "id": "7f27903834e6832b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +141,21 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Alle Eigenschaften"
             }
           },
           {
-            "id": "7ac005e42f491fe1",
+            "id": "80299266fc45cc4c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Gliederung"
             }
           }
         ]
@@ -183,44 +176,6 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "8f9d1edf3085bda2",
-  "lastOpenFiles": [
-    "Databases/PhyischesDesign/Transaktionen/Transaktionen.md",
-    "Databases/PhyischesDesign/Transaktionen/SAVEPOINT.md",
-    "Databases/PhyischesDesign/Transaktionen/ROLLBACK.md",
-    "Databases/PhyischesDesign/Transaktionen/SKIP LOCKED.md",
-    "Databases/PhyischesDesign/Transaktionen/FOR UPDATE.md",
-    "Databases/PhyischesDesign/Transaktionen/COMMIT.md",
-    "Databases/PhyischesDesign/Transaktionen/BEGIN.md",
-    "Databases/PhyischesDesign/Transaktionen/ANOMALIEN.md",
-    "Unbenannt.canvas",
-    "Databases/Datenbanken.md",
-    "Kompendium.md",
-    "SoftwareEngineering/Software-Entwicklung.md",
-    "Databases/Datenbankinstallation/Datenbankinstallation.md",
-    "Databases/Datenbankadministration/Datenbankadministration.md",
-    "Databases/Datenbankadministration/Observability/Observability.md",
-    "Databases/Datenbankadministration/Monitoring/Monitoring.md",
-    "Databases/Datenbankadministration/Skalierung/Skalierung und Partitionierung.md",
-    "Databases/Datenbankadministration/Replikation/Replikationsmodelle.md",
-    "Databases/Datenbankadministration/Backup/Backup-Strategien.md",
-    "Databases/Datenbankadministration/Backup/Write-Ahead Logs.md",
-    "Databases/Datenbankadministration/MVCC/Multi-Version Concurrency Control.md",
-    "Databases/Datenbankadministration/Nutzerverwaltung/Nutzerverwaltung.md",
-    "Databases/Datenbankadministration/Observability",
-    "Databases/Datenbankadministration/Monitoring",
-    "Databases/Datenbankadministration/Skalierung",
-    "Databases/Datenbankadministration/Replikation",
-    "Databases/Datenbankadministration/Backup",
-    "Databases/Datenbankadministration/MVCC",
-    "Databases/Datenbankadministration/Nutzerverwaltung",
-    "SoftwareEngineering/Systemarchitektur/Systemarchitektur.md",
-    "SoftwareEngineering/Systemarchitektur/UML/Unified Modelling Language.md",
-    "SoftwareEngineering/Systemarchitektur/LayeredArchitecture/Logische Schichtenmodell.md",
-    "SoftwareEngineering/Systemarchitektur/Topologies/Netzwerktopologien.md",
-    "SoftwareEngineering/Systemarchitektur/AccessPatterns/Datenbankzugriffsmuster.md",
-    "SoftwareEngineering/Systemarchitektur/Untitled",
-    "SoftwareEngineering/Systemarchitektur/AccessPatterns",
-    "SoftwareEngineering/Systemarchitektur/Topologies"
-  ]
+  "active": "b0c4b54382e8ce50",
+  "lastOpenFiles": []
 }
