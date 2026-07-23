@@ -2,7 +2,7 @@
 
 ## [[Views]]
 
-## [[Subqueries & CTEs]]
+## [[Subqueries]] & [[Common Table Expressions]]
 
 ## [[Window Functions]]
 

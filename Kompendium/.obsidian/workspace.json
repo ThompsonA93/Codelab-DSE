@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Datenbanken.md",
+                "file": "Databases/Fortgeschrittenes_SQL/Fortgeschrittenes SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datenbanken"
+              "title": "Fortgeschrittenes SQL"
+            }
+          },
+          {
+            "id": "7a6a63125cc27f33",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5
   },
   "right": {
     "id": "d85f94342ea8e4de",
@@ -183,43 +194,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f9d1edf3085bda2",
+  "active": "7a6a63125cc27f33",
   "lastOpenFiles": [
-    "SoftwareEngineering/Software-Entwicklung.md",
-    "Kompendium.md",
-    "Databases/Datenbankinstallation/Datenbankinstallation.md",
-    "Databases/Datenbanken.md",
-    "Databases/Datenbankadministration/Datenbankadministration.md",
-    "Databases/Datenbankadministration/Observability/Observability.md",
-    "Databases/Datenbankadministration/Monitoring/Monitoring.md",
     "Databases/Datenbankadministration/Skalierung/Skalierung und Partitionierung.md",
-    "Databases/Datenbankadministration/Replikation/Replikationsmodelle.md",
-    "Databases/Datenbankadministration/Backup/Backup-Strategien.md",
-    "Databases/Datenbankadministration/Backup/Write-Ahead Logs.md",
-    "Databases/Datenbankadministration/MVCC/Multi-Version Concurrency Control.md",
-    "Databases/Datenbankadministration/Nutzerverwaltung/Nutzerverwaltung.md",
+    "Databases/Datenbankadministration/WriteAheadLogs",
+    "Databases/Datenbankinstallation/Postgres/Tools/Stackbuilder.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/PSQL-CLI.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/pgAdmin.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/DBeaver.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/Datagrip.md",
+    "Databases/Datenbankinstallation/Postgres/Deployment/PostgreSQL.md",
+    "Databases/Datenbankinstallation/Postgres/Deployment/Docker.md",
+    "Databases/Datenbankmodellierung/ACID/ACID.md",
+    "Databases/Datenbankmodellierung/ACID/Atomicity.md",
+    "Databases/Datenbankmodellierung/ACID/Consistency.md",
+    "Databases/Datenbankmodellierung/ERD/Schwache Entität.md",
+    "Databases/Datenbankmodellierung/ERD/Schlüsselattribute.md",
+    "Databases/Datenbankmodellierung/ERD/Partieller Schlüssel.md",
+    "Databases/Datenbankmodellierung/ERD/Mehrwertiges Attribut.md",
+    "Databases/Datenbankmodellierung/ERD/Kompositattribut.md",
+    "Databases/Datenbankmodellierung/ERD/Identifizierende Beziehung.md",
+    "Databases/Datenbankmodellierung/ERD/Entity-Relationship Diagramme.md",
+    "Databases/Datenbankmodellierung/ERD/Abgeleites Attribut.md",
+    "Databases/Datenbankmodellierung/Integrität/Physische Integrität.md",
+    "Databases/Datenbankmodellierung/Integrität/Logische Integrität.md",
+    "Databases/Datenbankmodellierung/Integrität/Integrität.md",
+    "Databases/Datenbankmodellierung/Kardinalitäten/n-m.md",
+    "Databases/Datenbankmodellierung/Kardinalitäten/Kardinalitäten.md",
+    "Databases/Datenbankmodellierung/Kardinalitäten/1-m.md",
+    "Databases/Datenbankmodellierung/Kardinalitäten/1-1.md",
+    "Databases/Fortgeschrittenes_SQL/CommonTableExpressions",
+    "SoftwareEngineering/Applikationsintegration/Verbindungspools",
+    "SoftwareEngineering/Applikationsintegration/Abfragensicherheit",
+    "SoftwareEngineering/CloudComputing/ServerlessDB",
+    "SoftwareEngineering/DataWarehousing/AnalytischesModellieren",
+    "SoftwareEngineering/DataWarehousing/DimensionalesModellieren",
+    "SoftwareEngineering/Systemarchitektur/VerteilteZugriffsmuster",
     "Databases/Datenbankadministration/Observability",
-    "Databases/Datenbankadministration/Monitoring",
-    "Databases/Datenbankadministration/Skalierung",
-    "Databases/Datenbankadministration/Replikation",
-    "Databases/Datenbankadministration/Backup",
-    "Databases/Datenbankadministration/MVCC",
-    "Databases/Datenbankadministration/Nutzerverwaltung",
-    "SoftwareEngineering/Systemarchitektur/Systemarchitektur.md",
-    "SoftwareEngineering/Systemarchitektur/UML/Unified Modelling Language.md",
-    "SoftwareEngineering/Systemarchitektur/LayeredArchitecture/Logische Schichtenmodell.md",
-    "SoftwareEngineering/Systemarchitektur/Topologies/Netzwerktopologien.md",
-    "SoftwareEngineering/Systemarchitektur/AccessPatterns/Datenbankzugriffsmuster.md",
-    "SoftwareEngineering/Systemarchitektur/AccessPatterns/Verteilte Datenmuster.md",
-    "SoftwareEngineering/Systemarchitektur/Untitled",
-    "SoftwareEngineering/Systemarchitektur/AccessPatterns",
-    "SoftwareEngineering/Systemarchitektur/Topologies",
-    "SoftwareEngineering/NoSQL/Nicht-relationale Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Object/Objektspeicher.md",
-    "SoftwareEngineering/NoSQL/Graph/Graphdatenbanken.md",
-    "SoftwareEngineering/NoSQL/Document/Dokumentorientierte Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Spatial/Spatiale Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Time-Series/Zeitreihendatenbanken.md",
-    "SoftwareEngineering/NoSQL/Column/Spaltenorientierte Datenbanken.md"
+    "Databases/Datenbankadministration/Monitoring"
   ]
 }
