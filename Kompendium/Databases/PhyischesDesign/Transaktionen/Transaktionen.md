@@ -1,4 +1,3 @@
-
 #### [[BEGIN]]
 
 #### [[COMMIT]]
@@ -7,4 +6,8 @@
 
 #### [[FOR UPDATE]]
 
+#### [[SAVEPOINT]]
+
 #### [[SKIP LOCKED]]
+
+#### [[ANOMALIEN]]
