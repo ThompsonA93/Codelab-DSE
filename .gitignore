@@ -2,9 +2,4 @@
 node_modules
 
 # Secrets
-.envKompendium/.obsidian/
-Kompendium/.obsidian/workspace.json
-Kompendium/.obsidian/workspace-mobile.json
-Kompendium/.obsidian/
-Kompendium/.obsidian/workspace.json
-Kompendium/.obsidian/workspace-mobile.json
+.env
