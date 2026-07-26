@@ -51,3 +51,11 @@ Das Ziel ist der Kompetenzerwerb für Berufsfelder wie Datenbankadministrator, D
     6. Skalierung und Partitionierung: CREATE TABLE ... PARTITION BY, CockroachDB
     7. Monitoring: pg_stat_statements
     8. Observability: Prometheus, Grafana
+8. [[Datenbankerweiterungen]] mit PostgreSQL
+	1. pg_trgm
+	2. unaccent
+	3. pgcrypt
+	4. pg_audit
+	5. pg_cron
+	6. pg_repack
+	7. postgres_fdw
