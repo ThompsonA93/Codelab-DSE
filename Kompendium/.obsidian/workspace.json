@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Datenbanken"
             }
+          },
+          {
+            "id": "ff3fcff5350123f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Datenbanken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datenbanken"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 370.5
   },
   "right": {
     "id": "d85f94342ea8e4de",
@@ -174,21 +189,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "8f9d1edf3085bda2",
+  "active": "ff3fcff5350123f0",
   "lastOpenFiles": [
+    "Databases/Datenbankmodellierung/Datenbankmodellierung.md",
+    "Databases/Datenbanken.md",
+    "SoftwareEngineering/CloudComputing/Cloud Computing.md",
+    "Databases/Datenbankmodellierung/ERD/Entity-Relationship Diagramme.md",
+    "Databases/PhyischesDesign/Transaktionseigenschaften/Read Committed.md",
+    "Databases/PhyischesDesign/Transaktionseigenschaften/Read Uncommited.md",
+    "Databases/PhyischesDesign/Transaktionseigenschaften/Repeatable Read.md",
+    "Databases/PhyischesDesign/Transaktionseigenschaften/Serializable.md",
+    "Databases/PhyischesDesign/Transaktionseigenschaften/Transaktionseigenschaften.md",
+    "Databases/PhyischesDesign/Transatkionsanalyse/EXPLAIN.md",
+    "Databases/PhyischesDesign/Transatkionsanalyse/EXPLAIN ANALYZE.md",
+    "Databases/PhyischesDesign/Transatkionsanalyse/Transaktionsanalyse.md",
     "SoftwareEngineering/Software-Entwicklung.md",
     "Kompendium.md",
     "Databases/Datenbankinstallation/Datenbankinstallation.md",
-    "Databases/Datenbanken.md",
     "Databases/Datenbankadministration/Datenbankadministration.md",
     "Databases/Datenbankadministration/Observability/Observability.md",
     "Databases/Datenbankadministration/Monitoring/Monitoring.md",
@@ -207,19 +233,8 @@
     "Databases/Datenbankadministration/Nutzerverwaltung",
     "SoftwareEngineering/Systemarchitektur/Systemarchitektur.md",
     "SoftwareEngineering/Systemarchitektur/UML/Unified Modelling Language.md",
-    "SoftwareEngineering/Systemarchitektur/LayeredArchitecture/Logische Schichtenmodell.md",
-    "SoftwareEngineering/Systemarchitektur/Topologies/Netzwerktopologien.md",
-    "SoftwareEngineering/Systemarchitektur/AccessPatterns/Datenbankzugriffsmuster.md",
-    "SoftwareEngineering/Systemarchitektur/AccessPatterns/Verteilte Datenmuster.md",
     "SoftwareEngineering/Systemarchitektur/Untitled",
     "SoftwareEngineering/Systemarchitektur/AccessPatterns",
-    "SoftwareEngineering/Systemarchitektur/Topologies",
-    "SoftwareEngineering/NoSQL/Nicht-relationale Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Object/Objektspeicher.md",
-    "SoftwareEngineering/NoSQL/Graph/Graphdatenbanken.md",
-    "SoftwareEngineering/NoSQL/Document/Dokumentorientierte Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Spatial/Spatiale Datenbanken.md",
-    "SoftwareEngineering/NoSQL/Time-Series/Zeitreihendatenbanken.md",
-    "SoftwareEngineering/NoSQL/Column/Spaltenorientierte Datenbanken.md"
+    "SoftwareEngineering/Systemarchitektur/Topologies"
   ]
 }
