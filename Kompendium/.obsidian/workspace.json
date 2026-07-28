@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edfa1130613be9bd",
+        "id": "24b032182e90ee15",
         "type": "tabs",
         "children": [
           {
-            "id": "8f9d1edf3085bda2",
+            "id": "3f5d749dba26acff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Datenbanken.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Datenbanken"
+              "title": "New tab"
             }
           },
           {
@@ -93,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 380.5
   },
   "right": {
     "id": "d85f94342ea8e4de",
@@ -198,43 +194,43 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "ff3fcff5350123f0",
+  "active": "3f5d749dba26acff",
   "lastOpenFiles": [
-    "Databases/Datenbankmodellierung/Datenbankmodellierung.md",
+    "Databases/Datenbankerweiterungen/Datenbankerweiterungen.md",
+    "Databases/Datenbankerweiterungen/pg_audit.md",
+    "Databases/Datenbankerweiterungen/postgres_fdw.md",
+    "Databases/Datenbankerweiterungen/pg_repack.md",
+    "Databases/Datenbankerweiterungen/pg_cron.md",
+    "Databases/Datenbankerweiterungen/pgcrypt.md",
+    "Databases/Datenbankerweiterungen/unaccent.md",
+    "Databases/Datenbankerweiterungen/pg_trgm.md",
+    "Databases/Fortgeschrittenes_SQL/Fortgeschrittenes SQL.md",
     "Databases/Datenbanken.md",
-    "SoftwareEngineering/CloudComputing/Cloud Computing.md",
-    "Databases/Datenbankmodellierung/ERD/Entity-Relationship Diagramme.md",
-    "Databases/PhyischesDesign/Transaktionseigenschaften/Read Committed.md",
-    "Databases/PhyischesDesign/Transaktionseigenschaften/Read Uncommited.md",
-    "Databases/PhyischesDesign/Transaktionseigenschaften/Repeatable Read.md",
-    "Databases/PhyischesDesign/Transaktionseigenschaften/Serializable.md",
-    "Databases/PhyischesDesign/Transaktionseigenschaften/Transaktionseigenschaften.md",
-    "Databases/PhyischesDesign/Transatkionsanalyse/EXPLAIN.md",
-    "Databases/PhyischesDesign/Transatkionsanalyse/EXPLAIN ANALYZE.md",
-    "Databases/PhyischesDesign/Transatkionsanalyse/Transaktionsanalyse.md",
-    "SoftwareEngineering/Software-Entwicklung.md",
-    "Kompendium.md",
-    "Databases/Datenbankinstallation/Datenbankinstallation.md",
-    "Databases/Datenbankadministration/Datenbankadministration.md",
-    "Databases/Datenbankadministration/Observability/Observability.md",
-    "Databases/Datenbankadministration/Monitoring/Monitoring.md",
+    "Databases/Datenbankerweiterungen",
     "Databases/Datenbankadministration/Skalierung/Skalierung und Partitionierung.md",
-    "Databases/Datenbankadministration/Replikation/Replikationsmodelle.md",
-    "Databases/Datenbankadministration/Backup/Backup-Strategien.md",
-    "Databases/Datenbankadministration/Backup/Write-Ahead Logs.md",
-    "Databases/Datenbankadministration/MVCC/Multi-Version Concurrency Control.md",
-    "Databases/Datenbankadministration/Nutzerverwaltung/Nutzerverwaltung.md",
-    "Databases/Datenbankadministration/Observability",
-    "Databases/Datenbankadministration/Monitoring",
-    "Databases/Datenbankadministration/Skalierung",
-    "Databases/Datenbankadministration/Replikation",
-    "Databases/Datenbankadministration/Backup",
-    "Databases/Datenbankadministration/MVCC",
-    "Databases/Datenbankadministration/Nutzerverwaltung",
-    "SoftwareEngineering/Systemarchitektur/Systemarchitektur.md",
-    "SoftwareEngineering/Systemarchitektur/UML/Unified Modelling Language.md",
-    "SoftwareEngineering/Systemarchitektur/Untitled",
-    "SoftwareEngineering/Systemarchitektur/AccessPatterns",
-    "SoftwareEngineering/Systemarchitektur/Topologies"
+    "Databases/Datenbankadministration/WriteAheadLogs",
+    "Databases/Datenbankinstallation/Postgres/Tools/Stackbuilder.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/PSQL-CLI.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/pgAdmin.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/DBeaver.md",
+    "Databases/Datenbankinstallation/Postgres/Tools/Datagrip.md",
+    "Databases/Datenbankinstallation/Postgres/Deployment/PostgreSQL.md",
+    "Databases/Datenbankinstallation/Postgres/Deployment/Docker.md",
+    "Databases/Datenbankmodellierung/ACID/ACID.md",
+    "Databases/Datenbankmodellierung/ACID/Atomicity.md",
+    "Databases/Datenbankmodellierung/ACID/Consistency.md",
+    "Databases/Datenbankmodellierung/ERD/Schwache Entität.md",
+    "Databases/Datenbankmodellierung/ERD/Schlüsselattribute.md",
+    "Databases/Datenbankmodellierung/ERD/Partieller Schlüssel.md",
+    "Databases/Datenbankmodellierung/ERD/Mehrwertiges Attribut.md",
+    "Databases/Datenbankmodellierung/ERD/Kompositattribut.md",
+    "Databases/Fortgeschrittenes_SQL/CommonTableExpressions",
+    "SoftwareEngineering/Applikationsintegration/Verbindungspools",
+    "SoftwareEngineering/Applikationsintegration/Abfragensicherheit",
+    "SoftwareEngineering/CloudComputing/ServerlessDB",
+    "SoftwareEngineering/DataWarehousing/AnalytischesModellieren",
+    "SoftwareEngineering/DataWarehousing/DimensionalesModellieren",
+    "SoftwareEngineering/Systemarchitektur/VerteilteZugriffsmuster",
+    "Databases/Datenbankadministration/Observability"
   ]
 }
